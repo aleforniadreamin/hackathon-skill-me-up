@@ -7,3 +7,6 @@
 
 ## Team Members
 - Alex
+- Veronica
+- Chris
+- Marlon
