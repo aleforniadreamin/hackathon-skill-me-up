@@ -1,0 +1,72 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,900,300);
+@import url(http://weloveiconfonts.com/api/?family=fontawesome);
+body {
+background-color: #333;
+font-size: 1rem;
+font-family: 'Lato';
+}
+
+h1 {
+    font-size: 2em;
+    color: whitesmoke;
+    font-weight: 400;
+    margin-bottom: 20px;
+    margin-top: 25px;
+}
+
+h2, h3 {
+    color: tomato;
+}
+
+.schoolContainer {
+    display: flex;
+    flex-flow: column wrap;
+    width: 1000px;
+    height: 600px; 
+    border: 1px solid tomato;
+    color: #777;
+    background-color: whitesmoke;
+    
+}
+ 
+.left {
+    width: 60%;
+    height: 100%;
+    
+}
+
+.right {
+    width: 40%;
+    height: 50%;
+    text-align: center;
+}
+
+.contact {
+    height: 70%;
+}
+
+.button {
+    height: 30%;
+}
+
+#faceBook {
+    width: 10px;
+    height: 10px;
+}
+
+p {
+    padding-left: 10px;
+}
+ul {
+    list-style-type: none;
+}
+
+#addToPlaybook {
+    background-color: tomato;
+    color: whitesmoke;
+    display: flex;
+}
+
+a {
+    color: tomato;
+}
