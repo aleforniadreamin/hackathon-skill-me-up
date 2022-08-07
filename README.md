@@ -10,6 +10,6 @@
 
 - Alex
 - Veronica
-- Chris Predovich
+- Chris P.
 - Marlon
 - Monica
